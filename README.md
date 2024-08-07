@@ -3,6 +3,7 @@
 # MaLDAPtive
 
 **Released At:** <a href="https://blackhat.com/us-24/briefings/schedule/index.html#maldaptive-diving-deep-into-ldap-obfuscation-deobfuscation--detection-38458">Black Hat USA 2024</a> (2024-08-07) & <a href="https://defcon.org/html/defcon-32/dc-32-speakers.html">DEF CON 32</a> (2024-08-11)
+
 **Authors:** <a href="https://twitter.com/sabi_elezi">Sabajete Elezaj (Sabi)</a> & <a href="https://twitter.com/danielhbohannon">Daniel Bohannon (DBO)</a>
 
 ## Introduction
@@ -32,7 +33,7 @@ Our intention is to give defenders a multi-month head start on setting up requir
 ## Installation
 
 >```PowerShell
->Import-Module ./MaLDAPtive.psd1
+>Import-Module ./Maldaptive.psd1
 >```
 
 ## Required Packages
